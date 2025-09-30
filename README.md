@@ -1,14 +1,16 @@
-# navigation_base_app - flutter
+# 🚀 navigation_base_app - Flutter  
 
-A beauitifull customized nested animation in screen navigation.
+A beautifully customized **nested animation** for smooth and modern screen navigation.  
 
-✔️ Sound NullSafety
+✔️ Built with **Sound Null Safety** 🛡️  
 
-## GIF
+## 🎥 Demo  
 
 <p align="center">
   <img 
-    width=40%
-    height=40%
-    src="https://user-images.githubusercontent.com/101565812/193448928-613c4e81-e9f0-4631-bc1c-e6d88445bf09.gif" >
+    width="40%" 
+    height="40%" 
+    src="https://user-images.githubusercontent.com/101565812/193448928-613c4e81-e9f0-4631-bc1c-e6d88445bf09.gif" 
+    alt="Navigation Animation Demo"
+  >
 </p>
